@@ -1,12 +1,13 @@
 <template>
-<div>
-  <router-view></router-view>
-</div>
+    <h1>test login</h1>
 </template>
+
 <script>
 export default {
-  components: {},
-};
+    
+}
 </script>
+
 <style scoped>
+
 </style>
